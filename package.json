@@ -1,0 +1,18 @@
+{
+  "name": "twittifybot",
+  "version": "1.0.0",
+  "description": "Twitter bot to increase social presence",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "0xreeko"
+  ],
+  "author": "0xreeko",
+  "license": "ISC",
+  "dependencies": {
+    "twitter-api-v2": "^1.11.0"
+  }
+}
